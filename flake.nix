@@ -20,6 +20,7 @@
         fd
         ripgrep
         neovim
+        bat
       ];
     };
   };
