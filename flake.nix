@@ -19,6 +19,7 @@
         eza
         fd
         ripgrep
+        neovim
       ];
     };
   };
