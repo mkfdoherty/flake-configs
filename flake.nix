@@ -18,6 +18,7 @@
         zoxide
         eza
         fd
+        ripgrep
       ];
     };
   };
