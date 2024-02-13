@@ -22,6 +22,7 @@
         neovim
         bat
         kubectl
+        kubectx
       ];
     };
   };
