@@ -17,6 +17,7 @@
         tmux
         zoxide
         eza
+        fd
       ];
     };
   };
