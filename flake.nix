@@ -15,6 +15,7 @@
         git
         fzf
         tmux
+        zoxide
       ];
     };
   };
