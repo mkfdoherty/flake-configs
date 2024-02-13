@@ -13,6 +13,8 @@
 
         # general tools
         git
+        fzf
+        tmux
       ];
     };
   };
