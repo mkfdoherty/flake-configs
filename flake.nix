@@ -21,6 +21,7 @@
         ripgrep
         neovim
         bat
+        kubectl
       ];
     };
   };
