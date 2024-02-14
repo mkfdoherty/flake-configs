@@ -25,6 +25,7 @@
         kubectx
         ko
         gh
+        jq
       ];
     };
   };
