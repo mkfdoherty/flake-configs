@@ -24,6 +24,7 @@
         kubectl
         kubectx
         ko
+        gh
       ];
     };
   };
