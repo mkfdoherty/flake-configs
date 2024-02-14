@@ -23,6 +23,7 @@
         bat
         kubectl
         kubectx
+        ko
       ];
     };
   };
