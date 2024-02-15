@@ -27,6 +27,7 @@
         gh
         jq
         kind
+        helm
       ];
     };
   };
