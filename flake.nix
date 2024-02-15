@@ -28,6 +28,7 @@
         jq
         kind
         helm
+        starship
       ];
     };
   };
