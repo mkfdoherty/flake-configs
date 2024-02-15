@@ -27,7 +27,7 @@
         gh
         jq
         kind
-        helm
+        kubernetes-helm
         starship
       ];
     };
