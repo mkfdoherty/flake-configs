@@ -21,12 +21,10 @@
         ripgrep
         neovim
         bat
-        kubectl
         kubectx
         ko
         gh
         jq
-        kind
         kubernetes-helm
         starship
       ];
