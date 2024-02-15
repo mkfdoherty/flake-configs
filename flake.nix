@@ -26,6 +26,7 @@
         ko
         gh
         jq
+        kind
       ];
     };
   };
