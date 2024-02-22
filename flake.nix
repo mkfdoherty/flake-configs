@@ -5,8 +5,8 @@
   };
 
   outputs = { self, nixpkgs }: {
-    packages."x86_64-darwin".default = let
-      pkgs = nixpkgs.legacyPackages."x86_64-darwin";
+    packages."aarch64-darwin".default = let
+      pkgs = nixpkgs.legacyPackages."aarch64-darwin";
 	 in pkgs.buildEnv {
       name = "home-packages";
       paths = with pkgs; [
