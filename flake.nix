@@ -22,6 +22,7 @@
         neovim
         bat
         kubectx
+        awscli2
         ko
         gh
         jq
