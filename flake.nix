@@ -23,6 +23,7 @@
         bat
         kubectx
         awscli2
+        eksctl
         ko
         gh
         jq
