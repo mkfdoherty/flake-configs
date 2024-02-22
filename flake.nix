@@ -29,6 +29,7 @@
         jq
         kubernetes-helm
         starship
+        zsh-syntax-highlighting
       ];
     };
   };
