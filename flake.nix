@@ -30,6 +30,7 @@
         kubernetes-helm
         starship
         zsh-syntax-highlighting
+        fastfetch
       ];
     };
   };
