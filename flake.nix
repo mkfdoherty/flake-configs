@@ -31,6 +31,7 @@
         starship
         zsh-syntax-highlighting
         fastfetch
+        operator-sdk
       ];
     };
   };
