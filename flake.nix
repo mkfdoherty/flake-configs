@@ -30,8 +30,6 @@
         kubernetes-helm
         starship
         zsh-syntax-highlighting
-        fastfetch
-        operator-sdk
       ];
     };
   };
